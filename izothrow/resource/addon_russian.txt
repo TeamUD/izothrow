@@ -3,28 +3,28 @@
 	"Language"		"russian"
 	"Tokens"
 	{		
-		"addon_game_name"								"Overthrow"
+		"addon_game_name"								"Izothrow - Hiroshima Brawl"
 		"DOTA_GameMode_15"													"Overthrow"
-		"BanPhase"										"Запрет"
-		"HeroPickPhase"									"Выбор героя"
-		"StrategyPhase"									"Планирование"
+		"BanPhase"										"Бан"
+		"HeroPickPhase"									"Пик"
+		"StrategyPhase"									"Ожидание"
 
-		"DOTA_Tooltip_modifier_get_xp"					"Аура богатства"
-		"DOTA_Tooltip_modifier_get_xp_Description"		"Это существо получает больше золота и опыта!"
+		"DOTA_Tooltip_modifier_get_xp"					"Аура мажорства"
+		"DOTA_Tooltip_modifier_get_xp_Description"		"Этот мажор получает больше золота и опыта!"
 
 		"DOTA_Tooltip_modifier_get_xp_global"					"Глобальная аура"
 		"DOTA_Tooltip_modifier_get_xp_global_Description"		"Это существо получает золото и опыт"
 
-		"DOTA_Tooltip_modifier_fountain_aura_effect_lua"					"Аура фонтана"
-		"DOTA_Tooltip_modifier_fountain_aura_effect_lua_Description"		"Лечение"
+		"DOTA_Tooltip_modifier_fountain_aura_effect_lua"					"Аура хаты"
+		"DOTA_Tooltip_modifier_fountain_aura_effect_lua_Description"		"Хилка"
 
 		"DOTA_Tooltip_modifier_invis_revealed"			"Невидимость раскрыта"
 
 		"DOTA_Tooltip_ability_item_bag_of_gold"			"300 золота"
-		"DOTA_Tooltip_ability_item_treasure_chest"		"Сундук с сокровищами"
+		"DOTA_Tooltip_ability_item_treasure_chest"		"Сундук с ништяками"
 
-		"npc_dota_creature_basic_zombie"				"Зомби"
-		"npc_dota_creature_berserk_zombie"				"Зомби"
+		"npc_dota_creature_basic_zombie"				"Зондбе"
+		"npc_dota_creature_berserk_zombie"				"Зондбе"
 
 		//"npc_dota_hero_bounty_hunter"		"Bounty Hunter (Modified)"
 		//"npc_dota_hero_broodmother"			"Broodmother (Modified)"

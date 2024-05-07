@@ -17,7 +17,7 @@
 
 	"Scoreboard_Goal"								"Цель"
 
-	"Chest"											"НЕЙТРАЛЬНЫЙ ПРЕДМЕТ"
+	"Chest"											"НИШТЯК"
 	"ItemWillSpawn"									"ВОТ-ВОТ БУДЕТ ДОСТАВЛЕН!"
 	"ItemHasSpawned"								"В ПУТИ!"
 
@@ -28,16 +28,16 @@
 	"Neutrals"        								"Нейтральная команда"
 	"NoTeam"          								"Нет команды"
 
-	"DOTA_GoodGuys"   								"Бирюзовые тигры"
-	"DOTA_BadGuys"    								"Жёлтые обезьяны"
-	"DOTA_Custom1"    								"Розовые драконы"
-	"DOTA_Custom2"    								"Оранжевые псы"
-	"DOTA_Custom3"    								"Синие петухи"
-	"DOTA_Custom4"    								"Зелёные бараны"
-	"DOTA_Custom5"    								"Коричневые крысы"
-	"DOTA_Custom6"    								"Голубые кабаны"
-	"DOTA_Custom7"    								"Оливковые змеи"
-	"DOTA_Custom8"    								"Фиолетовые кони"
+	"DOTA_GoodGuys"   								"ШЕВЧЮКИ"
+	"DOTA_BadGuys"    								"СТАРОДУБЫ"
+	"DOTA_Custom1"    								"КОКОСЫ"
+	"DOTA_Custom2"    								"РЫЧКОВИ"
+	"DOTA_Custom3"    								"БЕВЗЮКИ"
+	"DOTA_Custom4"    								"КАЖАНЫ"
+	"DOTA_Custom5"    								"ДОНЕОЫ"
+	"DOTA_Custom6"    								"НОСЫ"
+	"DOTA_Custom7"    								"МАСЯНИ"
+	"DOTA_Custom8"    								"МИШАНИ"
 	
 	"OverthrowHeroPickup"							"{s:hero_id}"
 	"OverthrowTextPickup"							"ПОЛУЧИЛ"
@@ -52,7 +52,7 @@
 	"KillMessageText"								"УБИВАЕТ ЛИДЕРА"
 	"KillMessageBounty"								"И ПОЛУЧАЕТ 500 ЗОЛОТА СВЕРХУ!"
 	
-	"addonname"										"Overthrow"
+	"addonname"										"Izothrow - Hiroshima Brawl"
 	"overthrow_game_info_header_objective"			"Цель:"
 	"overthrow_brief_description"					"Уничтожайте врагов! Первый, кто наберёт достаточно убийств, победит!"
 	"overthrow_game_info_header_how_to_play"		"Правила:"
@@ -63,6 +63,9 @@
 	"overthrow_game_info_tip01"						"Текущий лидер имеет золотую корону, и вы получите дополнительное золото за его убийство."
 	"overthrow_game_info_tip03"						"Возможно, чтобы убить сильного врага, вам придётся действовать сообща с другими противниками."
 	"overthrow_game_info_tip04"						"Чем меньше убийств совершила ваша команда, тем сильнее нейтральные предметы, которые вы получаете из сундуков."
+	"npc_dota_hero_meepo" 							"Друг Изотова"
+	"npc_dota_hero_kunkka"                         "Изотов"
+	"npc_dota_hero_crystal_maiden"                  "Анна Владимировна"
 
 	//crow_mask_66_comment
 	//crow_mask_67_comment

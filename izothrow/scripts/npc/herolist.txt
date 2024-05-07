@@ -11,5 +11,14 @@
 	"npc_dota_hero_antimage"			"1"
 	"npc_dota_hero_arc_warden"			"1"
 	"npc_dota_hero_axe"					"1"
+	"npc_dota_hero_centaur"				"1"
+	"npc_dota_hero_chaos_knight"		"1"
+	"npc_dota_hero_crystal_maiden"		"1"
+	"npc_dota_hero_dark_willow"			"1"
+	"npc_dota_hero_dazzle"				"1"
+	"npc_dota_hero_meepo"        		"1"
+	"npc_dota_hero_kunkka"				"1"
+	"npc_dota_hero_crystal_maiden"      "1"
+
 	
 }
