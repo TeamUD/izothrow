@@ -9,8 +9,13 @@
     "ModelScale"        "3"
   }
 
-  "npc_dota_crystal_maiden" 
+  "npc_dota_hero_crystal_maiden" 
   {
-    "Ability2" "physic_laws"
+    "ModelScale"        "0.75"
+
+    "Ability1"          "newtons_apple"
+    "Ability2"          "physic_laws"
+    "Ability3"          "lab_works"
+    "Ability4"          "whatsup_message"
   } 
 }
