@@ -1,3 +1,0 @@
-#base heroes/anna_vladimirovna/hero.txt
-#base heroes/izotov_friend/hero.txt
-#base heroes/izotov/hero.txt

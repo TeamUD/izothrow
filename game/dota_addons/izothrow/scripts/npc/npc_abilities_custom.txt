@@ -1,8 +1,0 @@
-// Overthrow Base Abilities
-
-#base overthrow/abilties.txt
-
-// Izothrow New Abilities
-#base heroes/anna_vladimirovna/abilities.txt
-#base heroes/izotov/abilities.txt
-#base heroes/izotov_friend/abilities.txt

@@ -1,1 +1,0 @@
-hiroshimas_undead = class({})

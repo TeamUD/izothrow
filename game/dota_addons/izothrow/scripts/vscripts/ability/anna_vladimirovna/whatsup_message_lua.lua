@@ -1,1 +1,0 @@
-whatsup_message = class({})

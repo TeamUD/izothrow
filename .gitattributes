@@ -1,5 +1,0 @@
-* text=auto
-
-*.txt text eol=lf
-*.json text eol=lf
-*.psd filter=lfs diff=lfs merge=lfs -text

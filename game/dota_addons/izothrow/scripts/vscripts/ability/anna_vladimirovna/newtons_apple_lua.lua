@@ -1,1 +1,0 @@
-newtons_apple = class({})

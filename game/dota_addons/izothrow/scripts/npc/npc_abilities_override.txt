@@ -1,5 +1,0 @@
-// Overthrow Base Override
-
-#base overthrow/override.txt
-
-// Izothrow New Override

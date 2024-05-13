@@ -1,1 +1,0 @@
-hiroshimas_concert = class({})
