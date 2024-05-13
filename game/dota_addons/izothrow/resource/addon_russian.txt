@@ -1,0 +1,58 @@
+﻿"lang"
+{
+	"Language"		"russian"
+	"Tokens"
+	{		
+		"addon_game_name"											"Izothrow\nHiroshima Brawl"
+		"DOTA_GameMode_15"											"Overthrow"
+		"BanPhase"													"Бан"
+		"HeroPickPhase"												"Пик"
+		"StrategyPhase"												"Ожидание"
+
+		"DOTA_Tooltip_modifier_get_xp"								"Аура мажорства"
+		"DOTA_Tooltip_modifier_get_xp_Description"					"Этот мажор получает больше золота и опыта!"
+
+		"DOTA_Tooltip_modifier_get_xp_global"						"Глобальная аура"
+		"DOTA_Tooltip_modifier_get_xp_global_Description"			"Это существо получает золото и опыт"
+
+		"DOTA_Tooltip_modifier_fountain_aura_effect_lua"					"Аура хаты"
+		"DOTA_Tooltip_modifier_fountain_aura_effect_lua_Description"		"Хилка"
+
+		"DOTA_Tooltip_modifier_invis_revealed"						"Невидимость раскрыта"
+
+		"DOTA_Tooltip_ability_item_bag_of_gold"						"300 золота"
+		"DOTA_Tooltip_ability_item_treasure_chest"					"Сундук с ништяками"
+
+		"npc_dota_creature_basic_zombie"							"Зондбе"
+		"npc_dota_creature_berserk_zombie"							"Жоски зондбе"
+		"npc_dota_treasure_courier"									"Ништяки"
+
+		"DOTA_Tooltip_Ability_item_dust"							"Dust of Appearance (изм.)"
+
+		// Анна Владимировна
+		"npc_dota_hero_crystal_maiden"								"Анна Владимировна"
+		"DOTA_Tooltip_Ability_physic_laws"							"Законы физики"
+		"DOTA_Tooltip_Ability_physic_laws_Description" 				"Анна Владимировна, используя весь свой школьный опыт учителя физики, получает способность отражать атаки неприятилей и усиливать свою собственную защиту.<br>Для этого эффекта она использует закон Гука и закон сохранения импульса."
+		"DOTA_Tooltip_Ability_physic_laws_Lore"						"Этому Анна Владимировна не учила даже нас, школьников."
+		"DOTA_Tooltip_Ability_physic_laws_damage_reflection_pct"	"%ОТРАЖАЕМЫЙ УРОН:"
+		"DOTA_Tooltip_Ability_physic_laws_min_radius"				"МИН. РАДИУС:"
+		"DOTA_Tooltip_Ability_physic_laws_max_radius"				"МАКС. РАДИУС:"
+		"DOTA_Tooltip_Ability_newtons_apple"						"Яблоко Ньютона"
+		"DOTA_Tooltip_Ability_newtons_apple_Description"			"ERROR"
+		"DOTA_Tooltip_Ability_lab_works"							"Лабораторная работа"
+		"DOTA_Tooltip_Ability_lab_works_Description" 				"ERROR"
+		"DOTA_Tooltip_Ability_whatsup_message"						"Сообщение в WhatsUp"
+		"DOTA_Tooltip_Ability_whatsup_message_Description"			"ERROR"
+		
+		"DOTA_Tooltip_modifier_physic_laws_armor"					"Броня им. Физики"
+
+		// Некит
+
+		// Изотов
+		"npc_dota_hero_kunkka"										"Изотов"
+		"DOTA_Tooltip_Ability_hiroshimas_undead"					"Хиросимские уродцы"
+		"DOTA_Tooltip_Ability_dead_on_paper"						"Мертв по документам"
+		"DOTA_Tooltip_Ability_hydrogen_torpede"						"Водородные торпеды"
+		"Dota_Tooltip_Ability_hiroshimas_concert"					"Хиросимский концерт"
+	}
+}

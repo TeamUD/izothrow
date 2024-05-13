@@ -1,0 +1,24 @@
+//
+// <key>	<value>
+// Hero		currently on/off, will be # of instances (-1 = infinite)
+//
+
+"CustomHeroList"
+{
+	//--------------- ENABLED -----------------
+	"npc_dota_hero_abaddon"				"1"
+	"npc_dota_hero_ancient_apparition" 	"1"
+	"npc_dota_hero_antimage"			"1"
+	"npc_dota_hero_arc_warden"			"1"
+	"npc_dota_hero_axe"					"1"
+	"npc_dota_hero_centaur"				"1"
+	"npc_dota_hero_chaos_knight"		"1"
+	"npc_dota_hero_crystal_maiden"		"1"
+	"npc_dota_hero_dark_willow"			"1"
+	"npc_dota_hero_dazzle"				"1"
+	"npc_dota_hero_meepo"        		"1"
+	"npc_dota_hero_kunkka"				"1"
+	"npc_dota_hero_crystal_maiden"      "1"
+
+	
+}
