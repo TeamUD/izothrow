@@ -1,21 +1,3 @@
-// Dota Heroes File
-// NOTE: This is not for creating new heroes, this is for taking a currently existing hero as a template and overriding
-// the specified key-value combinations.  Use override_hero <hero_to_override> for this.
-"DOTAHeroes"
-{
-  
- "npc_dota_hero_meepo"
-  { 
-    "ModelScale"        "3"
-  }
-
-  "npc_dota_hero_crystal_maiden" 
-  {
-    "ModelScale"        "0.75"
-
-    "Ability1"          "newtons_apple"
-    "Ability2"          "physic_laws"
-    "Ability3"          "lab_works"
-    "Ability4"          "whatsup_message"
-  } 
-}
+#base heroes/anna_vladimirovna/hero.txt
+#base heroes/izotov_friend/hero.txt
+#base heroes/izotov/hero.txt

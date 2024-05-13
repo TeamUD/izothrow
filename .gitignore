@@ -1,8 +1,39 @@
-# File Extensions
-*.*_c
+# Cache crap that Valve autogenerates
 *.bin
+*.cfg
+*.soc
+*.tmp
 *.code-workspace
 *.sublime-project
+
+# Compiled formats
+*.*_c
+*.vmat_c
+*.vagrp_c
+*.vmesh_c
+
+# Map files
+
+# Map overviews
+resource/overviews/*
+
+#Github dump
+*.stackdump
+
+game/scripts/vscripts/components/statcollection/settings.kv
+game/scripts/vscripts/components/api/backend_key.kv
+
+game/network_measurement\.txt
+game/rich_presence_persistent_data\.txt
+
+game/server_log\.txt
+
+# Roshan
+content/models/rosh*
+game/models/rosh*
+
+
+# File Extensions
 panorama_debugger.cfg
 settings.kv
 
